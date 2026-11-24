@@ -1,0 +1,17 @@
+[package]
+name="nspiredesk-usb"
+version="0.1.0"
+edition="2021"
+license="GPL-3.0-or-later"
+[dependencies]
+libnspire={version="=0.2.2",default-features=false,features=["serde"]}
+rusb="=0.6.4"
+libusb1-sys={version="0.4.2",features=["vendored"]}
+serde_json="1"
+anyhow="1"
+png="0.17"
+
+[patch.crates-io]
+libnspire={path="../patches/libnspire"}
+libnspire-sys={path="../patches/libnspire-sys"}
+libusb1-sys={path="../patches/libusb1-sys"}

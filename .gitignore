@@ -1,0 +1,27 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+build/
+.build/
+target/
+DerivedData/
+*.app/
+*.dSYM/
+*.log
+.env
+.env.*
+!.env.example
+
+# Private school assessment materials
+/FinalQuestionsCompanion/
+
+# Rebuildable Rust dependency cache
+/NspireDesk/source/vendor/
+
+# Calculator resource pending redistribution review
+/NspireDesk/source/resources/Exit Test Mode.tns
+
+# Machine-local Cargo vendor configuration
+/NspireDesk/source/backend/.cargo/config.toml

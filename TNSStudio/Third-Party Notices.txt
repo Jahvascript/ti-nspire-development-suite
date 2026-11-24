@@ -1,0 +1,7 @@
+Luna 2.1 — Mozilla Public License 1.1. Complete unmodified source and license are in source/third-party/Luna. Luna uses modified MiniZip and DES code; their notices are retained with the source.
+https://github.com/ndless-nspire/Luna
+
+Lua 5.1.5 — MIT license, Lua.org / PUC-Rio. Complete source and COPYRIGHT are in source/third-party/Lua. The bundled luac compiler is used only to check syntax; imported programs are not executed on your Mac.
+https://www.lua.org/license.html
+
+Apple system frameworks provide PDF extraction and on-device text recognition. Word/RTF extraction uses macOS textutil. No cloud conversion service is used. No TI proprietary application content or firmware is bundled. TNS Studio is not affiliated with Texas Instruments.

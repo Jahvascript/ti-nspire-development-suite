@@ -1,0 +1,50 @@
+[
+  {
+    "file": "Precalculus Made Easy Trial.tns",
+    "bytes": 14981,
+    "sha256": "7497082e15eacf80c3e7e0ff4e9e3fd1e94b178729fb6c952cefdc470f3c4ed7",
+    "header": "*TIMLP0600",
+    "entries": [
+      {
+        "name": "Document.xml",
+        "method": 13,
+        "stored_bytes": 561,
+        "declared_uncompressed_bytes": 1230,
+        "crc32": "c80d05c8",
+        "payload_offset": 48
+      },
+      {
+        "name": "Problem1.xml",
+        "method": 13,
+        "stored_bytes": 14192,
+        "declared_uncompressed_bytes": 71091,
+        "crc32": "c376ffae",
+        "payload_offset": 651
+      }
+    ]
+  },
+  {
+    "file": "PrecalculusStudio.tns",
+    "bytes": 10661,
+    "sha256": "f956ce99ae6f1b6457ff277f23028784f67a373e8de3bbbfaa236ddb9a1fd2ae",
+    "header": "*TIMLP0500",
+    "entries": [
+      {
+        "name": "Document.xml",
+        "method": 13,
+        "stored_bytes": 304,
+        "declared_uncompressed_bytes": 304,
+        "crc32": "115b020c",
+        "payload_offset": 48
+      },
+      {
+        "name": "Problem1.xml",
+        "method": 13,
+        "stored_bytes": 10129,
+        "declared_uncompressed_bytes": 10129,
+        "crc32": "4292255f",
+        "payload_offset": 394
+      }
+    ]
+  }
+]
